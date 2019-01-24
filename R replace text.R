@@ -26,4 +26,4 @@ text2 <- gsub(pattern = "bcz", replace = "because", x = text)
 writeLines(text2, con="~/Desktop/text2.txt")
 base = gsub(pattern = "bcz", replacement =  "because",x= a)# x is filename
 #we can import a text file in r by using 
-read.delim("filename",stringsAsFactors = False)
+read.delim("filename.txt",stringsAsFactors = False)
