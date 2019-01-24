@@ -1,5 +1,5 @@
 rm(list = ls())
-setwd("C:/Users/admin/Documents/R files")
+setwd("set working directory")
 a=("bcz following are bcz graphical (non-control) characters defined by
 ISO 8859-1. Descriptions in words aren't all that helpful,
 but they're bcz best we can do in text.  A graphics file illustrating
